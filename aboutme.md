@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Mission Statement
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I grew up with gaming ever since Pong on the C64. Gaming has always been a passion of mine and I hope to share that passion with you all.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I intend to turn this blog into a resource center for the various PC game titles I play. I will post opinions pieces as well as guides and strategy summaries.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you would like to contribute you can do so on github directly by creating a pull request to add an article to this Jekyll blog. If you are not comfortable doing so you can also email me your content at contact@avinoc.tv directly.
